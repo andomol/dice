@@ -1,2 +1,2 @@
 # dice
-Dice challenge
+Dice challenge exercise.
